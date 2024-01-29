@@ -1,0 +1,2 @@
+# Superstore-sales-
+dashboard link: https://app.powerbi.com/view?r=eyJrIjoiZmExMTI0NjctNjBkOC00NWRkLTg4ZTMtOGI2YTliYTA2N2E1IiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9
